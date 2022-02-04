@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jonnathan93
+- 👀 I’m interested in developing a carrer in Cyber Security or Full Stack Development, which ever is more fun!
+- 🌱 I’m currently learning Python and Powershell
+- 📫 How to reach me jonnathan.giraldoo@gmail.com or on LinkedIn https://www.linkedin.com/in/jonnathan-giraldoo/
